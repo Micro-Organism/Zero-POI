@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-poi-easypoi
+    profiles:
+        active: dev
+server:
+    port: 8080
